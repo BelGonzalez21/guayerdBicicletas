@@ -1,2 +1,1 @@
-# guayerdBicicletas
-pagina final
+# guayerdBikes
